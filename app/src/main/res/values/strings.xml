@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SortTool</string>
+    <string name="change_group">选择组别:</string>
+
+    <string name="start_Button">开 始</string>
+    <string name="show_text">选择组号后点击开始!</string>
+
+    <string name="exit_button">退 出</string>
+</resources>
